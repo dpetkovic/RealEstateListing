@@ -29,4 +29,4 @@ A modern Android application for browsing real estate properties, built with Jet
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/dpetkovic/real-estate-listing.git](https://github.com/dpetkovic/RealEstateListing.git
+git clone https://github.com/dpetkovic/RealEstateListing.git
